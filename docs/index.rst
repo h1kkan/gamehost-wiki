@@ -11,6 +11,7 @@
 .. toctree::
    :maxdepth: 2
 
+   how_own_jar
 
 
 Indices and tables
