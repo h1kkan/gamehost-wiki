@@ -13,11 +13,3 @@
 
    how_own_jar
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
