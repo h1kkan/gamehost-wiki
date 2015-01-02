@@ -11,5 +11,6 @@
 .. toctree::
    :maxdepth: 2
 
-   how_own_jar
+   how_to_setup_own_jar
+   how_to_ftp_connect
 
