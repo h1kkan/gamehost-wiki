@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Вики minecraft хостинга's documentation!
-===================================================
+Вики minecraft хостинга
+=======================
 
-Contents:
+Список статей:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
 
 
