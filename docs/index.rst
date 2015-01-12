@@ -33,6 +33,7 @@
 В данный момент серверная часть нашего хостинга представлена следующими, проверенными временем конфигурациями:
 
 `Intel Xeon E5-1650 v2 <http://ark.intel.com/products/75780/Intel-Xeon-Processor-E5-1650-v2-12M-Cache-3_50-GHz/>`_ / 64 GB RAM ECC / raid 5 на SSD дисках / скорость сети 1 гбит
+
 `Intel Xeon E3-1245 v2 <http://ark.intel.com/ru/products/65729/Intel-Xeon-Processor-E3-1245-v2-8M-Cache-3_40-GHz/>`_ / 32 GB RAM ECC / raid 5 на SSD дисках / скорость сети 1 гбит
 
 Абсолютно всем клиентам предоставляется бесплатная действенная защита от ddos атак.
