@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Вики minecraft хостинга'
-copyright = u'2015, gamehost.abcd.bz'
+copyright = u'gamehost.abcd.bz | gamehost.io | gamehost.ovh'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -215,7 +215,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'minecraft.tex', u'Вики minecraft хостинга Documentation',
+  ('index', 'minecraft.tex', u'Вики minecraft хостинга',
    u'gamehost.abcd.bz', 'manual'),
 ]
 
@@ -245,7 +245,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'minecraft', u'Вики minecraft хостинга Documentation',
+    ('index', 'minecraft', u'Вики minecraft хостинга',
      [u'gamehost.abcd.bz'], 1)
 ]
 
@@ -259,7 +259,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'minecraft', u'Вики minecraft хостинга Documentation',
+  ('index', 'minecraft', u'Вики minecraft хостинга',
    u'gamehost.abcd.bz', 'minecraft', 'One line description of project.',
    'Miscellaneous'),
 ]
