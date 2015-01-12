@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Вики minecraft хостинга'
-copyright = u'gamehost.abcd.bz | gamehost.io | gamehost.ovh'
+#copyright = u'gamehost.abcd.bz | gamehost.io | gamehost.ovh'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
