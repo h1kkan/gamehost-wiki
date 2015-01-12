@@ -13,4 +13,9 @@
 
    how_to_setup_own_jar
    how_to_ftp_connect
+   server_config
+
+   how_get_test
+   rules
+   contacts
 
