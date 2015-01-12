@@ -6,7 +6,10 @@
 Вики minecraft хостинга
 =======================
 
-Список статей:
+Друзья, тексты данной вики доступны для правки любому желаюзему. Достаточно закомитить ваши правки в репозиторий на гитхабе, мы примем их после проверки. 
+Будем рады, если вы тоже захотите поучаствовать в создании документации и справочной информации нашего проекта :)
+
+Текущий список статей:
 
 .. toctree::
    :maxdepth: 2
@@ -14,6 +17,7 @@
    how_to_setup_own_jar
    how_to_ftp_connect
    server_config
+   faq
    how_get_test
    rules
 
@@ -50,4 +54,4 @@
 
 Мы единственный хостинг, который предоставляет именно выделенные ресурсы, а не слоты, оставляя пользователю возможность установить нужное ему количество слотов, исходя из возможностей его тарифного плана. Мы гарантируем качество оказываемых нами услуг, несмотря на их низкую цену. Остались сомнения — воспользуйтесь бесплатным `тестовым периодом <http://docs.gamehost.io/ru/latest/how_get_test.html>`_.
 
-К нашему проекту относятся следующие ресурсы: `gamehost.abcd.bz <https://gamehost.abcd.bz>`_, `gamehost.io <https://gamehost.io>`_, `gamehost.ovh <http://gamehost.ovh>`_, `gamehost.wf <http://gamehost.wf>`_.
+К нашему проекту относятся следующие ресурсы: `gamehost.abcd.bz <https://gamehost.abcd.bz>`_, `gamehost.io <https://gamehost.io>`_, `gamehost.ovh <http://gamehost.ovh>`_, `gamehost.wf <http://gamehost.wf>`_, `gamehost.pm <http://gamehost.pm>`_, `gamehost.re <http://gamehost.re>`_.
