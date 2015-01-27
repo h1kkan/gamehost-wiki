@@ -53,9 +53,6 @@
 
 К нашему проекту относятся следующие ресурсы: `gamehost.abcd.bz <https://gamehost.abcd.bz>`_, `gamehost.io <https://gamehost.io>`_, `gamehost.ovh <http://gamehost.ovh>`_, `gamehost.wf <http://gamehost.wf>`_, `gamehost.pm <http://gamehost.pm>`_, `gamehost.re <http://gamehost.re>`_.
 
-
-.. raw:: html
-
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
 (function (d, w, c) {
