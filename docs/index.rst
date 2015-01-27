@@ -52,31 +52,3 @@
 Мы единственный хостинг, который предоставляет именно выделенные ресурсы, а не слоты, оставляя пользователю возможность установить нужное ему количество слотов, исходя из возможностей его тарифного плана. Мы гарантируем качество оказываемых нами услуг, несмотря на их низкую цену. Остались сомнения — воспользуйтесь бесплатным `тестовым периодом <http://docs.gamehost.io/ru/latest/how_get_test.html>`_.
 
 К нашему проекту относятся следующие ресурсы: `gamehost.abcd.bz <https://gamehost.abcd.bz>`_, `gamehost.io <https://gamehost.io>`_, `gamehost.ovh <http://gamehost.ovh>`_, `gamehost.wf <http://gamehost.wf>`_, `gamehost.pm <http://gamehost.pm>`_, `gamehost.re <http://gamehost.re>`_.
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter28110471 = new Ya.Metrika({id:28110471,
-                    webvisor:true,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-        } catch(e) { }
-    });
-
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="//mc.yandex.ru/watch/28110471" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
