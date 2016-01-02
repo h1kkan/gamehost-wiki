@@ -23,6 +23,7 @@ rcon.password=тут задайте ваш пароль
 Далее для подключения вы можете использовать `данную программу <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/1262672-minecraft-server-rcon-query-utility>`_
 
 --------------
+
 Отключение проверки лицензии
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
