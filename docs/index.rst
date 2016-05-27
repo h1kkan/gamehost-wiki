@@ -51,4 +51,4 @@
 
 Мы единственный хостинг, который предоставляет именно выделенные ресурсы, а не слоты, оставляя пользователю возможность установить нужное ему количество слотов, исходя из возможностей его тарифного плана. Мы гарантируем качество оказываемых нами услуг, несмотря на их низкую цену. Остались сомнения — воспользуйтесь бесплатным `тестовым периодом <http://docs.gamehost.io/ru/latest/how_get_test.html>`_.
 
-К нашему проекту относятся следующие ресурсы: `gamehost.abcd.bz <https://gamehost.abcd.bz>`_, `gamehost.io <https://gamehost.io>`_, `gamehost.ovh <http://gamehost.ovh>`_, `gamehost.wf <http://gamehost.wf>`_, `gamehost.pm <http://gamehost.pm>`_, `gamehost.re <http://gamehost.re>`_.
+К нашему проекту относятся следующие ресурсы: `gamehost.abcd.bz <https://gamehost.abcd.bz>`_, `gamehost.io <https://gamehost.io>`_, `gamehost.ovh <http://gamehost.ovh>`_, `gamehost.wf <http://gamehost.wf>`_, `gamehost.pm <http://gamehost.pm>`_.
